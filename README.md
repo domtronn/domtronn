@@ -1,7 +1,7 @@
 <p align="center"> 
   <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" alt="Uh oh coding" />
   <br />
-  <i>‟Well, sh*t”</i>
+  <i><b>〝Well, sh*t〞</b> - Dom, today</i>
 </p>
 
 <!--
