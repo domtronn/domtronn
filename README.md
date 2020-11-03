@@ -1,6 +1,7 @@
 <p align="center"> 
   <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" alt="Uh oh coding" />
-  <i>Well, sh*t</i>
+  <br />
+  <i>‟Well, sh*t”</i>
 </p>
 
 <!--
