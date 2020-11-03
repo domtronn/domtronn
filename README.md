@@ -1,6 +1,6 @@
 <h2 align="center">Dom</h2>
 <p align="center"> 
-  <img src="http://gph.is/1oFN7HF" alt="Uh oh coding" />
+  <img src="https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif" alt="Uh oh coding" />
 </p>
 
 <!--
